@@ -1,6 +1,8 @@
 `composer install` to install dependencies
 `vendor/bin/phpunit` to run tests
 
+install http://neo4j.com/download/
+
 Use basic auth to make requests.
 
 Accept: application/json
